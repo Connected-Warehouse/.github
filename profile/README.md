@@ -55,7 +55,7 @@ L’architecture d’**Absolut Warehouse** est composée de plusieurs couches in
 
 ## 📊 Schéma d’architecture
 
-![Architecture réseau](./réseaux.drawio.png)
+![Architecture réseau](./../resources/réseaux.drawio.png)
 
 ---
 
