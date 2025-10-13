@@ -34,11 +34,7 @@ L’architecture d’**Absolut Warehouse** est composée de plusieurs couches in
 - **Communication :**
   - Avec la base de données : **SQL (TCP)**
   - Avec les clients web : **HTTP**
-
-### 5. Client web
-- **Technologie :** Navigateur web (HTML, CSS, JS)  
-- **Rôle :** Permet l’accès distant à certaines fonctionnalités (tableaux de bord, rapports, etc.)
-
+  - 
 ---
 
 ## ⚙️ Technologies principales
@@ -49,7 +45,6 @@ L’architecture d’**Absolut Warehouse** est composée de plusieurs couches in
 | Serveur applicatif    | Java         | TCP / SQL            |
 | Base de données       | PostgreSQL   | SQL (TCP)            |
 | Serveur web           | PHP          | HTTP / SQL           |
-| Client web            | Navigateur   | HTTP                 |
 
 ---
 
