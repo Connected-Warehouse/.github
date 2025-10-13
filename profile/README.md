@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-profile picture from : https://fr.pinterest.com/pin/204139795603967497/
 
 
 <!--
